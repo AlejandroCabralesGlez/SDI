@@ -4,6 +4,8 @@ package uo.sdi.model;
 /**
  * This class represents a value type
  * @author alb
+ * 
+ * Probando un commit
  */
 public class AddressPoint {
 	
